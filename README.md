@@ -21,7 +21,7 @@ train.csv: The training dataset provided by the competition, which we used to tr
 ## Contact
 If you have any questions or would like to discuss our approach in more detail, please feel free to reach out to any member of our team:
 
-Nour Eldeen Anwar Mohamed: LinkedIn Profile
-Khalid910: LinkedIn Profile
-Ahmed Samir: LinkedIn Profile
-Your Name: LinkedIn Profile
+* Nour Eldeen Anwar Mohamed: LinkedIn Profile
+* Khalid910: LinkedIn Profile
+* Ahmed Samir: LinkedIn Profile
+* Your Name: LinkedIn Profile
