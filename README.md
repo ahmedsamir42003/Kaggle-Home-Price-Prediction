@@ -27,4 +27,4 @@ If you have any questions or would like to discuss our approach in more detail, 
   
 * Ahmed Samir: https://www.linkedin.com/in/ahmed-samir-367680269
   
-* Your Name: http://linkedin.com/in/ahmed-samir-9a5769233
+* my linkedin: http://linkedin.com/in/ahmed-samir-9a5769233
